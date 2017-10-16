@@ -19,7 +19,7 @@ def Main():
         writeIn.write(buf)
         writeIn.close()
         print buf
-        print "Fetig"
+        print "Fertig"
 
 
 
