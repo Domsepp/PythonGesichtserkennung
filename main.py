@@ -1,7 +1,7 @@
 from Tkinter import *
 from PIL import Image, ImageTk
 from QR import qrcode
-from PaulsGesicht import run
+from Gesicht import run
 from SettingSaver import Main
 from thread import start_new_thread
 import time
